@@ -1,0 +1,3 @@
+# Ignore the CATBoost/df_copy.pkl file
+/CATBoost/df_copy.pkl
+.env
